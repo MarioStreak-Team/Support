@@ -1,9 +1,10 @@
-# MarioTeam Community Support
+# MarioStreak-Team Community Support
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
-Raise an [issue](https://github.com/MarioTeam/support/issues/new?assignees=&labels=invite+me+to+the+organisation&template=invitation.yml&title=Please+invite+me+to+the+GitHub+Community+Organization) to join the MarioTeam GitHub organisation.
+
+Raise an [issue](https://github.com/MarioStreak-Team/support/issues/new?assignees=&labels=invite+me+to+the+organisation&template=invitation.yml&title=Please+invite+me+to+the+GitHub+Community+Organization) to join the MarioStreak-Team GitHub organisation.
 
 ### Some vague idea of how we could turn this into a support channel
 
@@ -23,29 +24,33 @@ If we could find a really good name for this, we could have a `"support"` reposi
 
 We could then have folks to have their own "support" repository and be able to PR in their contributions!
 
-Please check out the [issue queue](https://github.com/MarioTeam/support/issues) for sticking issues with this and we can all pair on this.
+Please check out the [issue queue](https://github.com/MarioStreak-Team/support/issues) for sticking issues with this and we can all pair on this.
 
 ## Guide
 
-- Actions go under [issues](https://github.com/MarioTeam/support/issues)
+- Actions go under [issues](https://github.com/MarioStreak-Team/support/issues)
   - Bugs
   - Add me to the organization
-- Miscellaneous go under [Discussions](https://github.com/MarioTeam/support/discussions)
+- Miscellaneous go under [Discussions](https://github.com/MarioStreak-Team/support/discussions)
+
   - Questions
   - Ideas (once discussed, an Issue could be created and linked to the Discussion thread)
   - Showcase of Open Source Portfolios to get feedback from community members.
 
-      Feel free to check out other cool repositories of MarioTeam [here](https://github.com/MarioTeam)
-<!--       <a href='https://github.com/MarioTeam'>here</a>. -->
+          Feel free to check out other cool repositories of MarioStreak-Team [here](https://github.com/MarioStreak-Team)
+
+    <!--       <a href='https://github.com/MarioStreak-Team'>here</a>. -->
 
 ## FAQ
 
 - **What is a GitHub Organization?** Essentially it's a way to group many repositories in an entity called an organization. An organization also allows us to group people who contribute and are a part of the community. Some examples would be: [Netflix](https://github.com/Netflix), [Facebook/Meta](https://github.com/facebook), and of course [EddieHub](https://github.com/EddieHubCommunity).
+
   - Learn more on [GitHub Docs](https://docs.github.com/en/github/setting-up-and-managing-organizations-and-teams/about-organizations).
 
-- **How do I join the GitHub organization?** Raise an issue on this repository asking to ([invite you](https://github.com/MarioTeam/support/issues/new?assignees=&labels=invite+me+to+the+organisation&template=invitation.md&title=Please+invite+me+to+the+GitHub+Community+Organization)).
+- **How do I join the GitHub organization?** Raise an issue on this repository asking to ([invite you](https://github.com/MarioStreak-Team/support/issues/new?assignees=&labels=invite+me+to+the+organisation&template=invitation.md&title=Please+invite+me+to+the+GitHub+Community+Organization)).
 - **How do I set the membership public?**
-  - Navigate to our community page: <https://github.com/MarioTeam>
+
+  - Navigate to our community page: <https://github.com/MarioStreak-Team>
   - Click on the highlighted area:
 
   ![image](https://user-images.githubusercontent.com/53110238/140310956-bbfbd91c-5d16-469b-93f6-953cc2fae870.png)
@@ -58,6 +63,6 @@ Please check out the [issue queue](https://github.com/MarioTeam/support/issues) 
 
   ![image](https://user-images.githubusercontent.com/53110238/140311136-fe355147-d08d-4eaa-9b9e-f4bc496ce0d5.png)
 
-- **How do I keep my Git fork up to date?** Add a new remote called `upstream` targeting the original repository. Check out more information on [this issue](https://github.com/MarioTeam/support/issues/94).
+- **How do I keep my Git fork up to date?** Add a new remote called `upstream` targeting the original repository. Check out more information on [this issue](https://github.com/MarioStreak-Team/support/issues/94).
 - **What is DevRel?** Check out on [this YouTube video](https://www.youtube.com/watch?v=iUZerHctTB8&t=1534s).
-- **How do I get started with open source?** You can make your first pull request in this [repository](https://github.com/MarioTeam/hacktoberfest-practice). Follow the instructions in the README, and don't forget – contributing to open source is not just about code – it's about collaboration, communication, and adding value. Don't be afraid to open an issue with a question :smiley:
+- **How do I get started with open source?** You can make your first pull request in this [repository](https://github.com/MarioStreak-Team/hacktoberfest-practice). Follow the instructions in the README, and don't forget – contributing to open source is not just about code – it's about collaboration, communication, and adding value. Don't be afraid to open an issue with a question :smiley:
